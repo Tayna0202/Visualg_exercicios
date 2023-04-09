@@ -1,4 +1,4 @@
-Algoritmo "EX_19"
+Algoritmo "EX_19_maior_valor"
 // Disciplina  : [Linguagem e Lógica de Programação JavaScript]
 // Professor   : Obama
 // Autor(a)    : Tayna

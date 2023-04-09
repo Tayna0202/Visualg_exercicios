@@ -1,4 +1,4 @@
-Algoritmo "EX_36"
+Algoritmo "EX_36_soma_idade_genero"
 // Disciplina  : [Linguagem e Lógica de Programação JavaScript]
 // Professor   : Obama
 // Autor(a)    : Tayna

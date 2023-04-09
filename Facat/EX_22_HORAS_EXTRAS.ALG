@@ -1,4 +1,4 @@
-Algoritmo "EX_22"
+Algoritmo "EX_22_horas_extras"
 // Disciplina  : [Linguagem e Lógica de Programação JavaScript]
 // Professor   : Obama
 // Autor(a)    : Tayna

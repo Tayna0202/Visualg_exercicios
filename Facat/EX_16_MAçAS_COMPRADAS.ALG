@@ -1,4 +1,4 @@
-Algoritmo "EX_16"
+Algoritmo "EX_16_maças_compradas"
 // Disciplina  : [Linguagem e Lógica de Programação com JavaScript]
 // Professor   : Obama
 // Descrição   : Aqui você descreve o que o programa faz! (função)

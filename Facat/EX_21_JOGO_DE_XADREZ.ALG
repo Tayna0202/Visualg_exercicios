@@ -1,4 +1,4 @@
-Algoritmo "EX_21"
+Algoritmo "EX_21_jogo_de_xadrez"
 // Disciplina  : [Linguagem e Lógica de Programação com JavaScript]
 // Professor   : Obama
 // Descrição   : Programa que calcula a idade em dias totais

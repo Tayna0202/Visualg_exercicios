@@ -1,4 +1,4 @@
-Algoritmo "EX_18"
+Algoritmo "EX_18_verificar_se_pode_votar"
 // Disciplina  : [Linguagem e Lógica de Programação com JavaScript]
 // Professor   : Obama
 // Descrição   : Aqui você descreve o que o programa faz! (função)
@@ -7,7 +7,6 @@ Algoritmo "EX_18"
 Var
 // Seção de Declarações das variáveis 
 anoAtual, anoNascimento, elegivel: inteiro
-
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 escreval ("Qual seu ano de nascimento?")
@@ -15,7 +14,6 @@ leia (anoNascimento)
 escreval ("Em que ano você está?")
 leia (anoAtual)
 elegivel<-anoAtual-anoNascimento
-
 se (elegivel>=16) então
    escreval ("Você é elegível para votar pois tem ", elegivel, " anos")
 senão

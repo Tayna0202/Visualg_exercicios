@@ -1,4 +1,4 @@
-Algoritmo "EX_23"
+Algoritmo "EX_23_verifica_genero"
 // Disciplina  : [Linguagem e Lógica de Programação JavaScript]
 // Professor   : Obama
 // Autor(a)    : Tayna

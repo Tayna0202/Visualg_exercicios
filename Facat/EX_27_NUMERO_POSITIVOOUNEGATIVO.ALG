@@ -1,4 +1,4 @@
-Algoritmo "EX_27"
+Algoritmo "EX_27_numero_positivoOuNegativo"
 // Disciplina  : [Linguagem e Lógica de Programação JavaScript]
 // Professor   : Obama
 // Autor(a)    : Tayna

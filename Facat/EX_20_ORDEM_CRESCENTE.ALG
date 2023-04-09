@@ -1,4 +1,4 @@
-Algoritmo "EX_20"
+Algoritmo "EX_20_ordem_crescente"
 // Disciplina  : [Linguagem e Lógica de Programação JavaScript]
 // Professor   : Obama
 // Autor(a)    : Tayna

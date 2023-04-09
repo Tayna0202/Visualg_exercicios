@@ -1,4 +1,4 @@
-Algoritmo "EX_17"
+Algoritmo "EX_17_aluno_aprovadoOuNao"
 // Disciplina  : [Linguagem e Lógica de Programação com JavaScript]
 // Professor   : Obama
 // Descrição   : Aqui você descreve o que o programa faz! (função)
