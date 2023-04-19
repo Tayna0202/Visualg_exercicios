@@ -1,4 +1,4 @@
-Algoritmo "1_D"
+Algoritmo "1_D_impares20"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi
 // Descrição   : Aqui você descreve o que o programa faz! (função)
@@ -11,9 +11,9 @@ numero, contador: inteiro
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
 enquanto contador<=20 faca
-se contador mod 2=1 entao
-     escreval(contador)
-fimse
-     contador<-contador+1
+   se contador mod 2=1 entao
+        escreval(contador)
+   fimse
+        contador<-contador+1
 fimenquanto
 Fimalgoritmo

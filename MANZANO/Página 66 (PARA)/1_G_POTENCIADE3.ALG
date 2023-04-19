@@ -1,20 +1,22 @@
-Algoritmo "PAG50_1A"
+Algoritmo "1_G_potenciade3"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : Obama
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Tayna
-// Data atual  : 03/04/2023
+// Data atual  : 17/04/2023
 Var
 // Seção de Declarações das variáveis 
-numero, resultado: inteiro
+cont, base, res: inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-numero<-15
-   repita
-      resultado<-numero*numero
-      escreval(resultado)
-      numero<-numero+1
-   ate numero>200
+base <- 3
+res <- 1
+escreval(base, " ^ 0 = 1")
+para cont de 0 ate 14 faca
+         res<-res*base
+         cont<-cont+1
+         escreval(base, " ^", cont, " =", res)
+fimpara
 
 Fimalgoritmo

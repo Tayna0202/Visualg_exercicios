@@ -1,23 +1,23 @@
-Algoritmo "1_C"
+Algoritmo "1_G_fibonacci"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
+// Professor   : Antonio Carlos Nicolodi
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 31/03/2023
+// Data atual  : 14/04/2023
 Var
 // Seção de Declarações das variáveis 
-contador, soma: inteiro
+num1, num2, soma, cont: inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-contador <- 1
-soma <- 0
-enquanto contador <= 500 faca
-se contador mod 2 = 0 entao
-soma <- soma + contador
-fimse
-contador <- + 1
+num1<-1
+num2<-1
+
+enquanto soma < 35 faca
+         escreval(num1)
+         soma<-num1+num2
+         num1<-num2
+         num2<-soma
 fimenquanto
-escreval("A soma dos valores pares de 1 a 500 é: ", soma)
 
 Fimalgoritmo

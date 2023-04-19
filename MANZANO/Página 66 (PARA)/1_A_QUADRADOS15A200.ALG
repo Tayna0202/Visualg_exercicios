@@ -1,20 +1,22 @@
-Algoritmo "PAG50_1C"
+Algoritmo "1_A_quadrados15a200"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : Obama
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Tayna
 // Data atual  : 03/04/2023
-var
-// Seção de Declarações das variáveis
-contador:real
-
+Var
+// Seção de Declarações das variáveis 
+cont: inteiro
+num1, num2: real
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
-contador<-1
-repita
-se (contador mod 4 = 0) entao
-escreval(contador)
-fimse
-contador<-contador+1
-ate (contador>199)
+num1 <- 14
+cont <- 14
+
+para cont de 15 ate 200 faca
+     num1 <- num1 + 1
+     num2 <- num1 * num1
+     escreval(num1, " ao quadrado = ", num2)
+fimpara
+
 Fimalgoritmo

@@ -1,19 +1,23 @@
-Algoritmo "PAG66_1B"
+Algoritmo "1_B_SomaPares1&500"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : Obama
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Tayna
 // Data atual  : 03/04/2023
-Var
+var
 // Seção de Declarações das variáveis
-numero, contadora, resultado:inteiro
+contador, soma:inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
-escreva("Digite um número: ")
-leia(numero)
-para contadora de 1 ate 10 passo 1 faca
-     resultado <- numero*contadora
-     escreval(numero," X", contadora, " =", resultado)
-fimpara
+contador<- 1
+
+repita
+      se (contador mod 2 = 0) entao
+      soma<- soma + contador
+      escreval("A soma entre: ", contador, " e os seus antecessores é: ", soma)
+      fimse
+      contador<- contador + 1
+ate contador > 500
+
 Fimalgoritmo

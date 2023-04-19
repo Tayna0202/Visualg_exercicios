@@ -1,4 +1,4 @@
-Algoritmo "1_A"
+Algoritmo "1_A_tabuada"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : Obama
 // Descrição   : Aqui você descreve o que o programa faz! (função)
