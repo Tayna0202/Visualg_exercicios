@@ -6,7 +6,7 @@ Algoritmo "EX_20_ordem_crescente"
 Var
 // Seção de Declarações das variáveis 
 valor1, valor2: real
-
+,
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 Escreval("Digite o primeiro valor: ")

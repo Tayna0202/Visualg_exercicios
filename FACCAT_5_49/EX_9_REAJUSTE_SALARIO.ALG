@@ -14,7 +14,7 @@ escreva("Digite seu salário atual: ")
 leia(salario)
 escreva("Digite o percetual de reajuste:")
 leia(reajuste)
-salario<-salario+(salario*reajuste/100)
-escreva("O seu salário com reajuste é:", salariof)
+salariofinal<-salario+(salario*reajuste/100)
+escreva("O seu salário com reajuste é:", salariofinal)
 
 Fimalgoritmo

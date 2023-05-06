@@ -6,15 +6,19 @@ Algoritmo "EX_16_maças_compradas"
 // Data atual  : 27/03/2023
 Var
 // Seção de Declarações das variáveis 
-qauntidadeMacas, valorMaca, custoTotal: real
+quantidadeMacas, valorMaca, custoTotal: real
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 escreva("Digite o número de maças compradas ")
 leia(quantidadeMacas)
-se (quantidadeMacas>12)entao
+se(quantidadeMacas>12)entao
+valorMaca<-1.00
+custoTotal<-valorMaca*quantidadeMacas
+senao
 valorMaca<-1.30
 custoTotal<-valorMaca*quantidadeMacas
-escreva("O valor total da compra das maças foi de: ", custoTotal)
 fimse
+
+escreva("O valor total da compra das maças foi de: ", custoTotal)
 Fimalgoritmo

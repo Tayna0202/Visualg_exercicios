@@ -22,7 +22,7 @@ leia(dia)
 idade <- 2023 - ano
 mes_dias <- mes * 30
 ano_dias <- idade * 365
-dias <- dia + mes + anodias
+dias <- dia + mes + ano_dias
 escreva("Sua idade em dias é igual á: ", dias)
 
 Fimalgoritmo

@@ -18,8 +18,9 @@ leia(salarioHora)
      salarioTotal<-salarioHora*horasTrabalhadas
      escreva("O valor a ser recebebido: ", salarioTotal)
    senao
-     salarioExtra<-salarioHora*horasTrabalhadas
      horasExtras<-horasTrabalhadas-160
+     salarioExtra<-salarioHora*horasTrabalhadas
+     escreva("O valor a ser recebebido: ", salarioExtra)
    fimse
 
 Fimalgoritmo
